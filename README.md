@@ -88,7 +88,7 @@ I'm a passionate Full-Stack Developer with expertise in modern web technologies 
 
 ---
 
-⭐️ From [Soban Usman](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Soban Usman](https://github.com/sobandev)
 
 <!-- 
 To customize this README:
