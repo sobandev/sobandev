@@ -43,9 +43,9 @@ I'm a passionate Full-Stack Developer with expertise in modern web technologies 
 
 ## 📊 GitHub Stats
 
-![Soban's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Soban's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobandev&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sobandev&layout=compact&theme=radical)
 
 ## 🏆 Featured Projects
 
