@@ -1,100 +1,86 @@
-# Hi there, I'm Soban Usman! 👋
+# Hi, I'm Soban Usman 👋
 
-## 🚀 About Me
+### Web & Mobile Developer building practical, modern products.
 
-I'm a passionate Full-Stack Developer with expertise in modern web technologies and a strong foundation in both frontend and backend development. I love creating efficient, scalable, and user-friendly applications that solve real-world problems.
-
-## 💻 Tech Stack & Expertise
-
-### Frontend Development
-- **React.js** - Building dynamic and interactive user interfaces
-- **Next.js** - Server-side rendering and full-stack React applications
-- **TypeScript** - Type-safe JavaScript development
-- **HTML5 & CSS3** - Modern web standards and responsive design
-- **JavaScript (ES6+)** - Modern JavaScript features and best practices
-
-### Backend Development
-- **Node.js** - Server-side JavaScript runtime
-- **Express.js** - Web application framework
-- **Python** - Versatile programming for web development and automation
-- **RESTful APIs** - Designing and implementing robust APIs
-- **Database Management** - SQL and NoSQL databases
-
-### Content Management
-- **WordPress** - Custom theme and plugin development
-- **PHP** - Server-side scripting for web development
-
-### Tools & Technologies
-- **Git & GitHub** - Version control and collaboration
-- **Docker** - Containerization and deployment
-- **AWS/Cloud Services** - Cloud infrastructure and deployment
-- **MongoDB, PostgreSQL, MySQL** - Database technologies
-- **Redux/Context API** - State management
-- **Tailwind CSS, Bootstrap** - CSS frameworks
-
-## 🔥 What I Do
-
-- 🌐 **Full-Stack Web Development** - End-to-end application development
-- ⚡ **Performance Optimization** - Making applications faster and more efficient
-- 🎨 **UI/UX Implementation** - Bringing designs to life with pixel-perfect precision
-- 🔧 **API Development** - Creating robust and scalable backend services
-- 📱 **Responsive Design** - Mobile-first, cross-platform compatibility
-- 🚀 **Modern Deployment** - CI/CD pipelines and cloud deployment strategies
-
-## 📊 GitHub Stats
-
-![Soban's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobandev&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sobandev&layout=compact&theme=radical)
-
-## 🏆 Featured Projects
-
-### 🌟 Hira Asim Portfolio
-**Tech Stack:** React, Next.js, TypeScript
-- Professional portfolio website showcasing creative design and development skills
-- Modern UI/UX with smooth animations and responsive design
-- [Live Demo](https://hira-asim.vercel.app/)
-
-### 🌟 Adventure Travel Platform
-**Tech Stack:** React, Next.js, TypeScript
-- Travel booking and adventure planning platform
-- Interactive user interface with booking functionality
-- [Live Demo](https://preview-adventure-travel.vercel.app/)
-
-### 🌟 LearnSphere Landing Page
-**Tech Stack:** React, Next.js, Modern CSS
-- Educational platform landing page with engaging design
-- Responsive layout optimized for conversions
-- [Live Demo](https://learnsphere-landing.vercel.app/)
-
-## 🌱 Currently Learning
-
-- Advanced TypeScript patterns
-- Microservices architecture
-- Cloud-native development
-- AI/ML integration in web applications
-
-## 📫 Let's Connect!
-
-- 💼 **LinkedIn:** [Soban Usman](https://www.linkedin.com/in/soban-usman)
-- 🌐 **Portfolio:** [devsoban.vercel.app](https://devsoban.vercel.app/)
-
-## 💡 Fun Facts
-
-- 🎯 I love solving complex problems with elegant solutions
-- 🌍 Always excited to collaborate on open-source projects
-- 📚 Continuous learner who stays updated with the latest tech trends
-- ☕ Powered by coffee and curiosity
+I work across **web and mobile development**, focusing on clean interfaces, useful functionality, and scalable application structure.
 
 ---
 
-⭐️ From [Soban Usman](https://github.com/sobandev)
+## 🚀 What I Work With
 
-<!-- 
-To customize this README:
-1. Replace "YOUR_GITHUB_USERNAME" with your actual GitHub username
-2. Add your real contact information
-3. Update the featured projects section with your actual projects
-4. Add any additional skills or technologies you work with
-5. Customize the fun facts section to reflect your personality
--->
+### 🌐 Web
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+### ⚙️ Backend & Data
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 💡 What I Build
+
+- 📱 Cross-platform mobile apps
+- 🌐 Modern web applications
+- 📊 Dashboards and business tools
+- 🚀 SaaS products
+- 🔐 Authentication & database-driven apps
+- 🔌 API integrations
+- 🎨 Responsive UI implementations
+
+---
+
+## ⚡ How I Work
+
+I use **AI-assisted development workflows** alongside modern development tools to move quickly from an idea or design to a working product.
+
+My focus is on:
+
+- Clean structure
+- Practical functionality
+- Fast iteration
+- Maintainable applications
+- Real-world usability
+
+---
+
+## 🎯 Currently Improving
+
+- React & React Native
+- JavaScript
+- Flutter
+- Backend architecture
+- Supabase
+- Scalable application design
+- Product development
+
+---
+
+## 📊 GitHub Stats
+
+![Soban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sobandev&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sobandev&layout=compact&hide_border=true)
+
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soban%20Usman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soban-usman)
+
+---
+
+### `Building. Learning. Shipping. 🚀`
